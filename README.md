@@ -7,4 +7,8 @@ There are various mathematical functions in python, there are functions that wil
    For x we take the number that needs to be put into the module and get the result after opening the module
 
 3. round(x) - rounding a number 
-   For x, we take a number that needs to be rounded
+   For x, we take a number that needs to be rounded 
+   
+4. bin(x) - to the binary system
+   oct(x) - into the octal system
+   hex(x) - to the hexadecimal system
